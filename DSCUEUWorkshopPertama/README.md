@@ -16,13 +16,13 @@ Pembuatan aplikasi pertama kali
 1. Sudah terinstall IDE android studio rampung :)</p>
 2. Open IDE android studio, langkahnya seperti gif dibawah ini:
 
-<p align="center"> <img src ="/DevStudyGroup/assets-doc/Step-New-Project.gif"</p>
+<p align="center"> <img src ="../assets-doc/Step-New-Project.gif"</p>
 
 <p align="center"> Gambar 1.1 Langkah-langkah pembuatan project di android studio </p>
 
 <center> Detail Gambar Tampilan Saat Membuat New Project </center>
 <p align="center">
-<img src="/DevStudyGroup/assets-doc/New-Project.png">
+<img src="../assets-doc/New-Project.png">
 </p>
 
 <h1>Keterangan</h1>
@@ -33,7 +33,7 @@ Nama folder aplikasi yang akan dibuat</p>
 Nama domain package unik yang nantinya akan digenerate sebagai package, jika akan di publish ke playstore sebagai id, contohnya seperti gambar dibawah ini:
 
 <p align="center">
-<img src="/DevStudyGroup/assets-doc/Company-Domain.png">
+<img src="../assets-doc/Company-Domain.png">
 </p>
 
 **Project Location** adalah:
@@ -44,5 +44,5 @@ Nama package utama yang ada di project, otomatis digenerate dari company domain<
 
 3. Lalu klik next tampil Target Android Devices
 <p align="center">
-<img src="/DevStudyGroup/assets-doc/Android-Devices.png">
+<img src="../assets-doc/Android-Devices.png">
 </p>
