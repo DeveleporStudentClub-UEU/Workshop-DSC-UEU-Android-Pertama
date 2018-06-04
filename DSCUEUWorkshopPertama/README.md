@@ -33,7 +33,7 @@ Nama folder aplikasi yang akan dibuat</p>
 Nama domain package unik yang nantinya akan digenerate sebagai package, jika akan di publish ke playstore sebagai id, contohnya seperti gambar dibawah ini:
 
 <p align="center">
-<img src="../assets-doc/Company-Domain.png">
+<img src="../assets-doc/Company-Domain.PNG">
 </p>
 
 **Project Location** adalah:
@@ -44,5 +44,5 @@ Nama package utama yang ada di project, otomatis digenerate dari company domain<
 
 3. Lalu klik next tampil Target Android Devices
 <p align="center">
-<img src="../assets-doc/Android-Devices.png">
+<img src="../assets-doc/Android-Devices.PNG">
 </p>
