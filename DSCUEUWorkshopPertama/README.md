@@ -22,7 +22,7 @@ Pembuatan aplikasi pertama kali
 
 <center> Detail Gambar Tampilan Saat Membuat New Project </center>
 <p align="center">
-<img src="../assets-doc/New-Project.png">
+<img src="../assets-doc/New-Project.PNG">
 </p>
 
 <h1>Keterangan</h1>
